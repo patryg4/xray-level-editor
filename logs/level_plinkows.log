@@ -1,0 +1,83 @@
+* Detected CPU: AuthenticAMD , F15/M1/S0, 3593.00 mhz, 50-clk 'rdtsc'
+* CPU Features: RDTSC, MMX, SSE, SSE2
+
+Initializing File System...
+'xrCore' build 0, (null)
+
+RegisterCommand: command '(null)' overridden by command '(null)'.
+-----loading gamedata\configs\system.ltx
+* ImageLibrary version: 3.9.3
+* 26 supported formats
+Starting RENDER device...
+* GPU [vendor:1002]-[device:7340]: Radeon RX 5500 XT
+* GPU driver: 27.20.21002.112
+* CREATE: DeviceREF: 1
+* Vertex Processor: PURE HARDWARE
+*     Texture memory: 4094 M
+*          DDI-level: 9.0
+* GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+* GPU vertex cache: unrecognized, 16
+* DVB created: 2048K
+* DIB created: 2048K
+count of .thm files=2579
+count of .thm files=0
+load time=5015 ms
+D3D: initialized
+Starting INPUT device...
+SOUND: OpenAL: enumerate devices...
+SOUND: OpenAL: EnumerationExtension Present
+devices Generic Software
+SOUND: OpenAL: system  default SndDevice name is Generic Software
+SOUND: OpenAL: All available devices:
+1. Generic Software, Spec Version 1.1 (default) eax[2] efx[no] xram[no]
+SOUND: Selected device is Generic Software
+* sound: EAX 2.0 extension: absent
+* sound: EAX 2.0 deferred: absent
+* sound : cache: 32768 kb, 2428 lines, 13820 bpl
+Scene: initialized
+* DVB created: 2048K
+* DIB created: 2048K
+* RM_Dump: textures  : 104
+* RM_Dump: rtargets  : 0
+* RM_Dump: vs        : 2
+* RM_Dump: ps        : 2
+* RM_Dump: dcl       : 3
+* RM_Dump: states    : 9
+* RM_Dump: tex_list  : 104
+* RM_Dump: matrices  : 0
+* RM_Dump: lst_constants: 0
+* RM_Dump: v_passes  : 163
+* RM_Dump: v_elements: 163
+* RM_Dump: v_shaders : 163
+* GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+* GPU vertex cache: unrecognized, 16
+*** RESET [105 ms]
+* Loaded: gamedata\textures\prop\prop_color_g.dds[11064]b
+* Loaded: gamedata\textures\prop\prop_color_r.dds[11064]b
+* Loaded: gamedata\textures\prop\prop_color_b.dds[11064]b
+* Loaded: gamedata\textures\prop\prop_fake_dead.dds[22000]b
+* Loaded: gamedata\textures\ui\ui_font_hud_01.dds[65664]b
+Scene: cleared
+* Unloading texture [prop\prop_color_g] pSurface RefCount= 1
+* Unloading texture [prop\prop_color_r] pSurface RefCount= 1
+* Unloading texture [prop\prop_color_b] pSurface RefCount= 1
+Input:  1
+Destroying Direct3D...
+* Unloading texture [prop\prop_fake_dead] pSurface RefCount= 1
+* Unloading texture [ui\ui_font_hud_01] pSurface RefCount= 1
+* RM_Dump: textures  : 0
+* RM_Dump: rtargets  : 0
+* RM_Dump: vs        : 0
+* RM_Dump: ps        : 0
+* RM_Dump: dcl       : 0
+* RM_Dump: states    : 0
+* RM_Dump: tex_list  : 0
+* RM_Dump: matrices  : 0
+* RM_Dump: lst_constants: 0
+* RM_Dump: v_passes  : 0
+* RM_Dump: v_elements: 0
+* RM_Dump: v_shaders : 0
+refCount:pBaseZB 1
+refCount:pBaseRT 1
+refCount:dwDebugSB 1
+D3D: device cleared

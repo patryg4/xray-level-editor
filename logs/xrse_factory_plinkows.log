@@ -1,0 +1,14 @@
+* Detected CPU: AMD Ryzen 3 3100 4-Core Processor [AuthenticAMD], F15/M1/S0, 3592.00 mhz, 50-clk 'rdtsc'
+* CPU features: RDTSC, MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2
+* CPU threads: 8
+
+Initializing File System...
+$fs_root$ = C:\Users\plinkows\Desktop\xray-level-editor
+using fs-ltx fsfactory.ltx
+FS: 2147 files cached 0 archives, 626Kb memory used.
+Init FileSystem 0.023295 sec
+'xrCore' build 0, (null)
+
+CRT heap 0x03a30000
+Process heap 0x00960000
+-----loading gamedata\configs\system.ltx
